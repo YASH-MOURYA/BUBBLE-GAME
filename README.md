@@ -1,2 +1,4 @@
 # BUBBLE-GAME
-It is small bubble game developed using HTNL,CSS,JS 
+It is a small bubble game developed using HTML, CSS, JS 
+
+in JS we used the event bubbling concept
